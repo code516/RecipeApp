@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--https://stackoverflow.com/a/4464966-->
+    <attr name="criteriaTitle" format="string" />
+    <attr name="criteriaItems" format="string" />
+    <attr name="criteriaChecked" format="boolean" />
+    <attr name="criteriaSelection" format="integer" />
+    <attr name="criteriaSummary" format="string" />
+    <attr name="noSelectionText" format="string" />
+
+    <declare-styleable name="Control3WaySelect">
+        <attr name="criteriaTitle" />
+        <attr name="criteriaIncluded" format="string" />
+        <attr name="criteriaExcluded" format="string" />
+        <attr name="criteriaItems" />
+        <attr name="android:onClick" />
+    </declare-styleable>
+
+    <declare-styleable name="ControlMinMax">
+        <attr name="criteriaTitle" />
+        <attr name="criteriaUnit" />
+        <attr name="labelMinimum" format="string" />
+        <attr name="labelMaximum" format="string" />
+        <attr name="valueMinimum" format="string" />
+        <attr name="valueMaximum" format="string" />
+        <attr name="android:onClick" />
+    </declare-styleable>
+
+    <declare-styleable name="ControlMultiSelect">
+        <attr name="criteriaTitle" />
+        <attr name="criteriaItems" />
+        <attr name="criteriaSummary" />
+        <attr name="android:onClick" />
+    </declare-styleable>
+
+    <declare-styleable name="ControlSingleSelect">
+        <attr name="criteriaTitle" />
+        <attr name="criteriaItems" />
+        <attr name="criteriaSelection" />
+        <attr name="noSelectionText" />
+        <attr name="android:onClick" />
+    </declare-styleable>
+
+    <declare-styleable name="ControlSwitch">
+        <attr name="criteriaTitle" />
+        <attr name="criteriaChecked" />
+        <attr name="summaryCheckOff" format="string" />
+        <attr name="summaryCheckOn" format="string" />
+    </declare-styleable>
+</resources>

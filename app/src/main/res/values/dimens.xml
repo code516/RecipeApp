@@ -1,0 +1,52 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="pad_vert_label">16dp</dimen>
+    <dimen name="pad_horz_label">16dp</dimen>
+
+    <dimen name="pad_vert_list">16dp</dimen>
+    <dimen name="pad_horz_list">16dp</dimen>
+    <dimen name="pad_vert_list_inside">4dp</dimen>
+    <dimen name="pad_horz_list_inside">8dp</dimen>
+
+    <dimen name="pad_vert_dialog">8dp</dimen>
+    <dimen name="pad_horz_dialog">0dp</dimen>
+
+    <dimen name="margin_button">16dp</dimen>
+    <dimen name="margin_grid_item_text">16dp</dimen>
+    <dimen name="margin_icon_favorite">16dp</dimen>
+    <dimen name="margin_item_ingredient">16dp</dimen>
+    <dimen name="margin_widget_title">16dp</dimen>
+    <dimen name="margin_widget_item_horizontal">16dp</dimen>
+    <dimen name="margin_widget_item_vertical">8dp</dimen>
+
+    <dimen name="height_icon_favorite">56dp</dimen>
+    <dimen name="width_icon_favorite">@dimen/height_icon_favorite</dimen>
+    <dimen name="height_icon_ingredient">56dp</dimen>
+    <dimen name="width_icon_ingredient">@dimen/height_icon_ingredient</dimen>
+    <dimen name="height_icon_progress">150dp</dimen>
+    <dimen name="width_icon_progress">@dimen/height_icon_progress</dimen>
+    <dimen name="height_widget_minimum">100dp</dimen>
+    <dimen name="width_widget_minimum">150dp</dimen>
+
+    <dimen name="text_size_joke_display">16sp</dimen>
+    <dimen name="text_size_widget_title">20sp</dimen>
+    <dimen name="text_size_widget_item">16sp</dimen>
+
+    <dimen name="text_size_list_search_title">24sp</dimen>
+    <dimen name="text_size_list_search_summary">16sp</dimen>
+
+    <dimen name="text_size_list_dialog">16sp</dimen>
+    <dimen name="text_size_list_label">32sp</dimen>
+    <dimen name="text_size_list_name">32sp</dimen>
+    <dimen name="text_size_list_amounts">18sp</dimen>
+    <dimen name="text_size_item_origin">18sp</dimen>
+    <dimen name="text_size_list_grid_item">16sp</dimen>
+
+    <dimen name="text_size_recipe_servings">24sp</dimen>
+    <dimen name="text_size_recipe_ready_in">24sp</dimen>
+    <dimen name="text_size_recipe_ingredients_label">32sp</dimen>
+    <dimen name="text_size_recipe_ingredients_item">20sp</dimen>
+    <dimen name="text_size_recipe_directions_label">32sp</dimen>
+    <dimen name="text_size_recipe_directions_header">24sp</dimen>
+</resources>
