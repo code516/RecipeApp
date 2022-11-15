@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:859132220005:android:102c50d0358071dcfeec8c",
         "android_client_info": {
-          "package_name": "com.example.recipe_q.util"
+          "package_name": "com.example.recipe_q"
         }
       },
       "oauth_client": [
